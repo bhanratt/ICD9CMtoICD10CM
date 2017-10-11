@@ -1,4 +1,4 @@
-# ICD9to10
+# ICD9CMtoICD10CM
 Simple converter for ICD-9-CM to ICD-10-CM codes.
 # Usage
 python icd9to10.py convertme.txt
